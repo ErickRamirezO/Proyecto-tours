@@ -1,0 +1,66 @@
+.portada-tours {
+  width: 100%;
+  height: 500px;
+}
+
+.portada-tours-primero {
+  width: 100%;
+  height: 100%;
+  background: url('../img/transfers_portada.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  padding-top: 15%;
+}
+
+.portada-tours-primero p {
+  font-size: 60px;
+  font-weight: bold;
+  color:white;
+  text-align: center;
+  text-shadow: 2px 2px 8px black;
+}
+
+@media only screen and (max-width: 767px){
+  .portada-tours{
+    height:200px;
+    
+  }
+  .portada-tours p{
+    height:200px;
+    font-size:40px;
+  }
+  .transfer_hotel img{
+    width:80%!important;
+  }
+  .transfers_destinos_turisticos figure{
+    width:350px!important;
+    height:350px!important;
+  }
+}
+
+.transfers_destinos_turisticos{
+  display:flex;
+  flex-direction:row;
+  justify-content:center;
+  align-items:center;
+  width:100%;
+  flex-wrap:wrap;
+}
+.transfers_destinos_turisticos figure{
+  width:300px;
+  height:300px;
+  margin: 5px;
+  box-sizing: border-box;
+}
+.transfer_hotel{
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  justify-content:center;
+}
+.transfer_hotel img{
+  width:50%;
+}
+
+

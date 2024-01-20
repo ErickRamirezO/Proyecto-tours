@@ -1,0 +1,204 @@
+<i class="fa-solid fa-sun"></i>
+<i class="fa-solid fa-water"></i>
+<i class="fa-solid fa-mug-saucer"></i>
+<i class="fa-solid fa-fish-fins"></i>
+<i class="fa-solid fa-sailboat"></i>
+<i class="fas fa-drumstick-bite"></i>
+<i class="fa-solid fa-bed"></i>
+<i class="fa-solid fa-person-hiking"></i>
+<i class="fa-solid fa-person-walking"></i>
+<i class="fa-solid fa-utensils"></i>
+<i class="fa-solid fa-location-dot"></i>
+<i class="fa-solid fa-umbrella-beach"></i>
+<i class="fa-solid fa-mountain-sun"></i>
+<i class="fa-solid fa-bus"></i>
+
+Tour Misahualli
+ 
+ Recomendaciones:
+
+➡Ropa cómoda 
+➡Gorra 
+➡Bloqueador 
+➡cambio de zapatillas 
+➡Cámara de fotos 
+➡Repelente de mosquitos
+➡ Cambio de Ropa 
+➡ poncho de agua 
+➡ Botas de caucho (en caso de tener)
+
+
+Tour Cotundo
+ 
+ Recomendaciones:
+
+➡Ropa cómoda 
+➡Gorra 
+➡Bloqueador 
+➡Cambio de zapatillas 
+➡Cámara de fotos 
+➡Repelente de mosquitos
+➡ Cambio de Ropa 
+➡ poncho de agua 
+➡ Botas de caucho (en caso de tener)
+
+
+Tour Indichuris
+ 
+ Recomendaciones:
+
+➡Ropa cómoda 
+➡Gorra 
+➡Bloqueador 
+➡Cambio de zapatillas 
+➡Cámara de fotos 
+➡Repelente de mosquitos
+➡ Poncho de agua
+
+
+Tour Guanábana
+ 
+ Recomendaciones:
+
+➡Ropa cómoda 
+➡Gorra 
+➡Bloqueador 
+➡Terno de Baño 
+➡Cámara de fotos 
+➡Toalla
+
+
+Tour Mindo
+ 
+ Recomendaciones:
+
+➡Ropa cómoda 
+➡Gorra 
+➡Bloqueador 
+➡Cambio de ropa 
+➡Cámara de fotos 
+➡Cambio de zapatos
+
+
+Tour Baños
+ 
+ Recomendaciones:
+
+➡Ropa cómoda 
+➡Gorra 
+➡Bloqueador 
+➡Cámara de fotos 
+➡ Poncho de agua
+
+
+Tour Cotopaxi
+ 
+ Recomendaciones:
+
+➡Ropa cómoda y abrigada 
+➡Gorra y gorro de lana 
+➡Bloqueador 
+➡Zapatillas de buen labrado 
+➡Cámara de fotos 
+➡Guantes
+
+
+
+Tour Quilotoa
+ 
+ Recomendaciones:
+
+➡Ropa cómoda y abrigada 
+➡Gorra y gorro de lana 
+➡Bloqueador 
+➡Zapatillas de buen labrado 
+➡Cámara de fotos 
+➡Guantes
+
+
+
+Tour Chimborazo
+ 
+ Recomendaciones:
+
+➡Ropa cómoda y abrigada 
+➡Gorra y gorro de lana 
+➡Bloqueador 
+➡Zapatillas de buen labrado 
+➡Cámara de fotos 
+➡Guantes
+
+
+
+Tour Papallacta
+ 
+ Recomendaciones:
+
+➡Ropa cómoda 
+➡Gorra 
+➡Bloqueador 
+➡Terno de Baño 
+➡Cámara de fotos 
+➡Toalla
+
+
+Tour Otavalo
+ 
+ Recomendaciones:
+
+➡Ropa cómoda y abrigada 
+➡Gorra 
+➡Bloqueador 
+➡Zapatillas de buen labrado 
+➡Cámara de fotos
+
+
+Tour Baños + Indichuris
+ 
+ Recomendaciones:
+
+➡Ropa cómoda 
+➡Gorra 
+➡Bloqueador 
+➡Cámara de fotos 
+➡ Poncho de agua
+➡Repelente de Mosquitos 
+➡ Cambio de  ropa
+
+
+Tour Misahualli + Cotundo
+ 
+ Recomendaciones:
+
+➡Ropa cómoda 
+➡Gorra 
+➡Bloqueador 
+➡Cámara de fotos 
+➡ Poncho de agua
+➡Repelente de Mosquitos 
+➡ Cambio de  ropa
+➡ Botas  de caucho ( en caso de tener )
+
+
+Tour Cuenca
+ 
+ Recomendaciones:
+
+➡Ropa cómoda y abrigada
+➡Gorra y gorra de lana 
+➡Bloqueador 
+➡Cámara de fotos 
+➡ Terno de baño
+➡ Zapatillas de buen labrado 
+➡ Cambio de  ropa
+
+  <script src="../js/vertical-timeline.min.js"></script>
+    <script>
+  $('#myTimeline').verticalTimeline({
+    startLeft: false,
+    alternate: true,
+    animate: "slide",
+    arrows: true
+});</script>
+  <link href="../css/vertical-timeline.css" rel="stylesheet" type="text/css">
+

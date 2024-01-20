@@ -1,0 +1,66 @@
+.portada-tours {
+  width: 100%;
+  height: 500px;
+}
+
+.portada-tours-primero {
+  width: 100%;
+  height: 100%;
+  background: url('../img/acercaDeNosotrosFoto.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  padding-top: 15%;
+}
+
+.portada-tours-privado {
+  width: 100%;
+  height: 100%;
+  background: url('../img/privado.jpg') ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  padding-top: 15%;
+  
+
+}
+.portada-tours-primero p {
+  font-size: 60px;
+  font-weight: bold;
+  color:white;
+  text-align: center;
+}
+
+.mision_vision{
+  padding: 50px!important;
+}
+
+.splide__track {
+  margin: 40px!important;
+  padding-bottom:40px!important;
+}
+
+.acerca, .guianzas{
+  text-shadow: 2px 2px 8px black;
+}
+
+@media only screen and (max-width: 767px){
+  .portada-tours{
+    height:200px;
+    
+  }
+  .portada-tours p{
+    height:200px;
+    font-size:40px;
+  }
+  .quienesSomosContenedor{
+    width:280px!important;
+  }
+}
+
+.quienesSomosContenedor{
+  width:500px;
+  text-align:justify;
+  padding:10px;
+  margin:auto;
+}
